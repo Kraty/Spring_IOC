@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="Component,Controller：一般用于表现层,Repository：一般用于持久层,Service：一般用于业务层" />
+      <option name="myAdditionalJavadocTags" value="Component,Controller：一般用于表现层,Repository：一般用于持久层,Service：一般用于业务层,Autowried:,Qualifier,Resource,Value,Scope,PreDestory,PostConstruct" />
     </inspection_tool>
   </profile>
 </component>

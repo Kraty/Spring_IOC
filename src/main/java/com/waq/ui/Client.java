@@ -1,6 +1,5 @@
 package com.waq.ui;
 
-import com.waq.dao.AccountDao;
 import com.waq.service.AccountService;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
